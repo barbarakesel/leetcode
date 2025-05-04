@@ -9,7 +9,10 @@ Product of Array Except Self
 Daily Temperatures
 <br>
 Car Fleet
+<br>
+Generate Parentneses
 ## Two pointers & Binary Search
 Search a 2D Matrix
 <br>
+Container With Most Water
 <br>
